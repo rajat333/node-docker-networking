@@ -1,0 +1,14 @@
+{
+  "name": "node-docker-networking",
+  "version": "1.0.0",
+  "description": "StartUp kit For NODE with Docker Kubernate",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "express": "*",
+    "redis": "2.8.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
